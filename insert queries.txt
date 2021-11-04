@@ -1,0 +1,14 @@
+insert into customer VALUES("Murat Khan","murat@gmail.com",2000,CURRENT_TIMESTAMP);
+insert into customer VALUES("Hayat Khan","hayat@gmail.com",3000,CURRENT_TIMESTAMP);
+insert into customer VALUES("Prasad Dhobale","prasad@gmail.com",3000,CURRENT_TIMESTAMP);
+insert into customer VALUES("Zoya Ogzur","zoya@gmail.com",5000,CURRENT_TIMESTAMP);
+insert into customer VALUES("Zeenat Quazi","Zeenat@gmail.com",2000,CURRENT_TIMESTAMP);
+insert into customer VALUES("Snehal Dahake","snehal@gmail.com",4000,CURRENT_TIMESTAMP);
+insert into customer VALUES("Murat Khan","murat@gmail.com",2000,CURRENT_TIMESTAMP);
+insert into customer VALUES("Hayat Khan","hayat@gmail.com",3000,CURRENT_TIMESTAMP);
+insert into customer VALUES("Prasad Dhobale","prasad@gmail.com",3000,CURRENT_TIMESTAMP);
+insert into customer VALUES("Zoya Ogzur","zoya@gmail.com",5000,CURRENT_TIMESTAMP);
+insert into customer VALUES("Zeenat Quazi","Zeenat@gmail.com",2000,CURRENT_TIMESTAMP);
+insert into customer VALUES("Snehal Dahake","snehal@gmail.com",4000,CURRENT_TIMESTAMP);
+
+SELECT *FROM customer;
